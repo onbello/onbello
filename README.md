@@ -1,7 +1,7 @@
 <h4> Hi there 👋</h4>
 *´¨)
 ¸.•´¸.•*´¨) ¸.•*¨)
-(¸.•´ (¸.•` ¤ I am [Daniel Bello],
+(¸.•´ (¸.•` ¤ <h1>I am Daniel Bello</h1>,
 I'm a junior web developer and IT Technician.
 
 
