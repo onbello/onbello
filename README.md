@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Bello</h1>
-<h2 align="center">*´¨)
-¸.•´¸.•*´¨) ¸.•*¨)
-(¸.•´ (¸.•` ¤ </h2>
+
 <h3 align="center">Non-stop learning technician. Video editor and experienced technical support in cloud technologies and databases. Team coordinator for different types of projects. Effective management of time, organized and kind person.ontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onbello&label=Profile%20views&color=0e75b6&style=flat" alt="onbello" /> </p>
@@ -35,5 +33,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/dbelloabadia"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dbelloabadia" /></a></p>
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=onbello&show_icons=true&locale=en&layout=compact" alt="onbello" /></p>
